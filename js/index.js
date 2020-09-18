@@ -1,3 +1,3 @@
-var input = 'test';
-document.querySelector('input');
-console.log(typeof input);
+var test = document.querySelector('input');
+console.log(typeof test);
+console.log(test);
