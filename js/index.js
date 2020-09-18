@@ -1,4 +1,4 @@
-console.log(document.querySelector('input'));
+console.log('test');
 
 /*
 document.getElementbyID('weight')
